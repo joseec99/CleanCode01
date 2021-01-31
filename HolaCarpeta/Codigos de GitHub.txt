@@ -1,0 +1,7 @@
+git init = para inicializar Github en tu carpeta 
+
+git remote add origin = para conectarse al repositorio 
+
+git add "" o . = para agregar un documento a tu repositorio o si usas el punto
+es para subir varios archivos a la vez
+
